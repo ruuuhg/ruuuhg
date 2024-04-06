@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ruuuhg
+- 👀 I’m interested in learning to code, I'm currently studying computer science at college, and I'm facing some challenges, but I'm determined to overcome them.
+- 🌱 I’m currently learning programming languages like Python and Java, as well as data structures and algorithms.
+- 💞️ I’m looking to collaborate on any projects where I can contribute and learn, whether they are related to web development, mobile apps, or software engineering.
+- 📫 How to reach me: You can reach me through my university mailbox, email ([hellohugor@gmail.com]), or my personal Instagram ([@hugorgru.r]). 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a big fan of movies and love discussing them in my free time.
