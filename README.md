@@ -1,5 +1,4 @@
-🎓 Computer Engineering Student
-💻 Learning Full Stack Development
-🚀 Building projects and improving my coding skills every day
-🌱 Currently studying Python, Java, Data Structures & Algorithms
-🎬 Movie enthusiast
+🎓 Estudante de Engenharia da Computação
+💻 Aprendendo desenvolvimento Full Stack
+🚀 Criando projetos e evoluindo na programação todos os dias
+🌱 Estudando Python, Java, Estruturas de Dados e Algoritmos
